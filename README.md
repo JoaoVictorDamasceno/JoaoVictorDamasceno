@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c46fa642-5062-4ad6-a13d-cd9cd2134baf" alt="Cloud Fundamentals" width="40" height="40"/> </a>
+    <a href="https://awstreinabrasil.ontidwit.com/badge?id=07239eaa-a0e4-4f2c-a396-710579237073" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c46fa642-5062-4ad6-a13d-cd9cd2134baf" alt="Cloud Fundamentals" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
